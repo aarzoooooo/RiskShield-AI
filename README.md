@@ -16,6 +16,25 @@ The application provides both:
 through an interactive Streamlit dashboard.
 
 ---
+## Application Screenshots
+
+### Single Login Analysis
+
+The application allows security analysts to investigate individual login attempts and assess their account takeover risk.
+
+![Single Login Analysis](single-login.png)
+
+### Batch Login Analysis
+
+Users can upload large CSV datasets containing login records for automated risk analysis.
+
+![Batch Login Analysis](batch-upload.png)
+
+### Risk Analysis Results
+
+The system identifies risk levels and provides risk indicators for suspicious login activity, with an option to export the complete security report.
+
+![Risk Analysis Results](batch-results.png)
 
 ##  Problem Statement
 
