@@ -2,6 +2,10 @@
 
 AI-powered Account Takeover Risk Detection and Security Assessment.
 
+## 🚀 Live Demo
+
+[Try RiskShield AI](https://riskshield-ai-4vdjx5oxz46mbyxkvnwrhk.streamlit.app)
+
 ## Overview
 
 RiskShield-AI is a machine learning-based security application designed to identify potentially suspicious login attempts and assess the risk of account takeover.
